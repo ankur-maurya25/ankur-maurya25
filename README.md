@@ -3,15 +3,15 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ankur-maurya-35783b38a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ankur-maurya-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ankur-maurya25/ankur-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ankur-portfolio-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ankur-maurya25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@ankur-maurya25-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/ankur-maurya-35783b38a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+ <a href="https://github.com/ankur-maurya25/ankur-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+ <a href="https://github.com/ankur-maurya25">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </div>
 
 <p align="center">
